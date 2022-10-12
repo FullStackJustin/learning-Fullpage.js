@@ -1,0 +1,13 @@
+h3 {
+  text-align: center;
+  color: #fff;
+}
+div.fp-overflow{
+  height: 100vh;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+#sectionsContainer{
+}
